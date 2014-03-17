@@ -17,8 +17,6 @@
 
 	"require"			: {
 		"php"				: ">=5.3",
-		"twig/twig"			: ">=1",
-		"joomla/framework"	: ">=1"
 	},
 
 	"autoload"			: {
