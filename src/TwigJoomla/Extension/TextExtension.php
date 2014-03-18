@@ -11,9 +11,6 @@
 
 namespace TwigJoomla\Extension;
 
-use Joomla\Language\Text
-;
-
 /**
  * Joomla Text bridge
  *
@@ -24,7 +21,7 @@ class TextExtension extends AbstractExtension
 	/**
 	 * @inheritDoc
 	 */
-	protected $jclass = '\\Joomla\\Language\\Text';
+	protected $jclass = '\\JText';
 
 	/**
 	 * @inheritDoc
